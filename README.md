@@ -5,6 +5,7 @@
 https://github.com/microsoft/qlib
 
 ### 功能
+<s>全仓比亚迪 </s>
 - [ ] 指标筛选
 - [ ] 找到数据库
 - [ ] 选出收益率大的方案
