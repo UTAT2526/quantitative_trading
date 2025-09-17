@@ -1,6 +1,9 @@
 ### 实现思路
 指标筛选
 
+### 参考项目 
+https://github.com/microsoft/qlib
+
 ### 功能
 - [ ] 指标筛选
 - [ ] 找到数据库
