@@ -14,4 +14,4 @@ https://github.com/Paratyaksh03/Stock-Predictor-LSTM
 
 ### 2nd
 #### 下次会议计划
-- [ ] 展示指标代码
+- [x] 展示指标代码
