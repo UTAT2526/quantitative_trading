@@ -3,6 +3,8 @@
 
 ### 参考项目 
 https://github.com/microsoft/qlib
+https://github.com/PedroC1999/MarketSimulator/tree/master/Implementation/data
+https://github.com/Paratyaksh03/Stock-Predictor-LSTM
 
 ### 功能
 - [ ] <s>全仓比亚迪 </s>
